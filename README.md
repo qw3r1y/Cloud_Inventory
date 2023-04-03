@@ -3,7 +3,7 @@
 
 
 <h3> 💻 Youtube Channels and Videos </h3>
-![yt_1200](https://user-images.githubusercontent.com/73316672/229629271-0cbec736-0147-465d-9afd-af52b42a0bbb.png)
+<img width="500" src="https://ibb.co/GMLKmW6" alt="youtube" border="0"> 
 
 - [AWS Online Tech Talks](https://www.youtube.com/@AWSOnlineTechTalks/playlists)
 - [NetworkChuck (how I became a Cloud Engineer!)](https://www.youtube.com/watch?v=_SjSSQsIMeM)

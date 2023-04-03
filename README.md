@@ -17,7 +17,7 @@
 &nbsp;&nbsp;  
                                                                                                   
                                                                                                   
-* ### AWS 👾
+* ### Aws 👾
   - [AWS Online Tech Talks](https://www.youtube.com/@AWSOnlineTechTalks/playlists)
   - [NetworkChuck (how I became a Cloud Engineer!)](https://www.youtube.com/watch?v=_SjSSQsIMeM)
   - [AWS Security Blog](https://rhinosecuritylabs.com/blog/?category=aws)
@@ -36,7 +36,7 @@
 &nbsp;&nbsp;  
                                                                                                   
               
-* ### AZURE 🎃
+* ### Azure 🎃
   - [Azure Fundamentals](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
   - [Azure Administrator Certification (AZ-104)](https://www.youtube.com/watch?v=10PbGbTUSAg)
   - [NetworkChuck (Why you need to learn Azure RIGHT NOW!!)](https://www.youtube.com/watch?v=suruNl8rupU)
@@ -58,7 +58,7 @@
 <img width="250" align="center" src="https://i.ibb.co/Vp0xKbg/Udemy-Logo.png" alt="udemy" border="0"> 
 </p>
                                                                                                       
-* ### AWS 👻                                                                                                    
+* ### Aws 👻                                                                                                    
   - [Free AWS Certified Cloud Practitioner 2019 (FREE)](https://www.udemy.com/course/free-aws-certified-cloud-practitioner/)
   - [Starting your Career with Amazon AWS (FREE)](https://www.udemy.com/course/how-to-start-a-carrer-in-cloud-computing-with-amazon-aws/)
   - [Amazon Web Services (AWS) - Zero to Hero (FREE)](https://www.udemy.com/course/amazon-web-services-aws-v/)

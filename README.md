@@ -1,4 +1,4 @@
-<h1> CLOUD INVENTORY ☁️ </h1>
+<h1> CLOUD INVENTORY  </h1>
 <h3> In this repo, videos, documents, books, etc., which will provide many benefits, especially security, belonging to the cloud area. content exists. Welcome to cloud inventory ! </h3>
 
 
@@ -8,7 +8,7 @@
 <img width="250" align="center" src="https://i.ibb.co/0rB3DvR/You-Tube-social-white-squircle-svg.png" alt="youtube" border="0">
 </p>
                                                                                                   
-* ### Cloud Computing
+* ### Cloud Computing ☁️
   - [Cloud Computing Tutorial For Beginners 🔥[2023 Updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUIJ3o1tehvtux0_Ynf42CBN)
   - [Cloud Computing Explained](https://www.youtube.com/watch?v=_a6us8kaq0g)
   - [Cloud Computing Introduction | Cloud Computing Tutorial for Beginners | Cloud Certification |Edureka](https://www.youtube.com/watch?v=usYySG1nbfI)
@@ -17,7 +17,7 @@
 &nbsp;&nbsp;  
                                                                                                   
                                                                                                   
-* ### AWS
+* ### AWS 👾
   - [AWS Online Tech Talks](https://www.youtube.com/@AWSOnlineTechTalks/playlists)
   - [NetworkChuck (how I became a Cloud Engineer!)](https://www.youtube.com/watch?v=_SjSSQsIMeM)
   - [AWS Security Blog](https://rhinosecuritylabs.com/blog/?category=aws)
@@ -36,7 +36,7 @@
 &nbsp;&nbsp;  
                                                                                                   
               
-* ### AZURE
+* ### AZURE 🎃
   - [Azure Fundamentals](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
   - [Azure Administrator Certification (AZ-104)](https://www.youtube.com/watch?v=10PbGbTUSAg)
   - [NetworkChuck (Why you need to learn Azure RIGHT NOW!!)](https://www.youtube.com/watch?v=suruNl8rupU)
@@ -58,7 +58,7 @@
 <img width="250" align="center" src="https://i.ibb.co/Vp0xKbg/Udemy-Logo.png" alt="udemy" border="0"> 
 </p>
                                                                                                       
-* ### AWS                                                                                                     
+* ### AWS 👻                                                                                                    
   - [Free AWS Certified Cloud Practitioner 2019 (FREE)](https://www.udemy.com/course/free-aws-certified-cloud-practitioner/)
   - [Starting your Career with Amazon AWS (FREE)](https://www.udemy.com/course/how-to-start-a-carrer-in-cloud-computing-with-amazon-aws/)
   - [Amazon Web Services (AWS) - Zero to Hero (FREE)](https://www.udemy.com/course/amazon-web-services-aws-v/)

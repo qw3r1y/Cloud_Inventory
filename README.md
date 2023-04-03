@@ -5,7 +5,7 @@
 <h2> 💻 Youtube Channels and Videos </h2>
 
 <p align="center">
-<img width="250" align="center" src="https://i.ibb.co/M14Ydcv/yt-1200.png alt="youtube" border="0">
+<img width="250" align="center" src="https://i.ibb.co/0rB3DvR/You-Tube-social-white-squircle-svg.png" alt="youtube" border="0">
 </p>
                                                                                                   
 * ### Cloud Computing

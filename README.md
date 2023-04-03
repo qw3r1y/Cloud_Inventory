@@ -25,12 +25,13 @@
 - [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
 
                                                                                    
-<h3> 🧑‍🏫 Udemy </h3> 
+<h3> 🖍 Udemy </h3> 
                                                                                                   
 <p align="center">
 <img width="250" align="center" src="https://i.ibb.co/vk0KFTP/Udemy-banner.png" alt="udemy" border="0"> 
 </p>
                                                                                                       
+* ### AWS                                                                                                     
 - [Free AWS Certified Cloud Practitioner 2019 (FREE)](https://www.udemy.com/course/free-aws-certified-cloud-practitioner/)
 - [Starting your Career with Amazon AWS (FREE)](https://www.udemy.com/course/how-to-start-a-carrer-in-cloud-computing-with-amazon-aws/)
 - [Amazon Web Services (AWS) - Zero to Hero (FREE)](https://www.udemy.com/course/amazon-web-services-aws-v/)

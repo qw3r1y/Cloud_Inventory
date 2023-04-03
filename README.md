@@ -3,7 +3,7 @@
 
 
 <h3> 💻 Youtube Channels and Videos </h3>
-<img width="250" align="center src="https://i.ibb.co/M14Ydcv/yt-1200.png alt="youtube" border="0"> 
+<img width="250" align="center" src="https://i.ibb.co/M14Ydcv/yt-1200.png alt="youtube" border="0"> 
                                                                                    
 * ### AWS
 - [AWS Online Tech Talks](https://www.youtube.com/@AWSOnlineTechTalks/playlists)
@@ -23,7 +23,7 @@
 
                                                                                    
 <h3> 🧑‍🏫 Udemy </h3> 
-<img width="250" align="center src="https://i.ibb.co/vk0KFTP/Udemy-banner.png" alt="udemy" border="0"> 
+<img width="250" align="center" src="https://i.ibb.co/vk0KFTP/Udemy-banner.png" alt="udemy" border="0"> 
 
 - [Free AWS Certified Cloud Practitioner 2019 (FREE)](https://www.udemy.com/course/free-aws-certified-cloud-practitioner/)
 - [Starting your Career with Amazon AWS (FREE)](https://www.udemy.com/course/how-to-start-a-carrer-in-cloud-computing-with-amazon-aws/)

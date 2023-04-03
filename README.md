@@ -3,7 +3,7 @@
 
 
 <h3> 💻 Youtube Channels and Videos </h3>
-<img width="100" src="https://i.ibb.co/M14Ydcv/yt-1200.png alt="youtube" border="0"> 
+<img width="250" src="https://i.ibb.co/M14Ydcv/yt-1200.png alt="youtube" border="0"> 
                                                                                    
 * ### AWS
 - [AWS Online Tech Talks](https://www.youtube.com/@AWSOnlineTechTalks/playlists)

@@ -33,9 +33,9 @@
   - [How to Become a Cloud Security Engineer in 2021](https://www.youtube.com/watch?v=4JzSDUW1ZXw&list=PLOpFKM1EObSRVppt33AYMyHDwT-SzbvAs&index=11)
   - [Amazon Web Services](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
   - [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
-                                                                                                  
-                                                                                                
 &nbsp;&nbsp;  
+                                                                                                  
+              
 * ### AZURE
   - [Azure Fundamentals](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
   - [Azure Administrator Certification (AZ-104)](https://www.youtube.com/watch?v=10PbGbTUSAg)

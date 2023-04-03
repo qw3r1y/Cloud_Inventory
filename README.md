@@ -8,7 +8,7 @@
 <img width="250" align="center" src="https://i.ibb.co/M14Ydcv/yt-1200.png alt="youtube" border="0">
 </p>
                                                                                                   
-* ## AWS
+* ### AWS
   - [AWS Online Tech Talks](https://www.youtube.com/@AWSOnlineTechTalks/playlists)
   - [NetworkChuck (how I became a Cloud Engineer!)](https://www.youtube.com/watch?v=_SjSSQsIMeM)
   - [AWS Security Blog](https://rhinosecuritylabs.com/blog/?category=aws)
@@ -36,7 +36,7 @@
 <img width="250" align="center" src="https://i.ibb.co/vk0KFTP/Udemy-banner.png" alt="udemy" border="0"> 
 </p>
                                                                                                       
-* ## AWS                                                                                                     
+* ### AWS                                                                                                     
   - [Free AWS Certified Cloud Practitioner 2019 (FREE)](https://www.udemy.com/course/free-aws-certified-cloud-practitioner/)
   - [Starting your Career with Amazon AWS (FREE)](https://www.udemy.com/course/how-to-start-a-carrer-in-cloud-computing-with-amazon-aws/)
   - [Amazon Web Services (AWS) - Zero to Hero (FREE)](https://www.udemy.com/course/amazon-web-services-aws-v/)

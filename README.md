@@ -55,7 +55,7 @@
 <h2> 🖍 Udemy </h2> 
                                                                                                   
 <p align="center">
-<img width="250" align="center" src="https://i.ibb.co/pLWpybJ/png-transparent-udemy-round-logo-tech-companies.png" alt="udemy" border="0"> 
+<img width="250" align="center" src="https://i.ibb.co/Vp0xKbg/Udemy-Logo.png" alt="udemy" border="0"> 
 </p>
                                                                                                       
 * ### AWS                                                                                                     

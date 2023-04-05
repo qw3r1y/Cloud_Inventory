@@ -96,8 +96,9 @@
                                                                                                   
 
 <h2> 📚 Blog Post </h2>   
-  -[Sena Yakut](https://senayktt.medium.com/)
-  -[Nick Jones](https://www.nojones.net/posts/breaking-into-cloudsec)
+
+  - [Sena Yakut](https://senayktt.medium.com/)
+  - [Nick Jones](https://www.nojones.net/posts/breaking-into-cloudsec)
 
 
 

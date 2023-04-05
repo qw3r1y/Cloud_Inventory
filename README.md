@@ -14,6 +14,8 @@
   - [Cloud Computing Introduction | Cloud Computing Tutorial for Beginners | Cloud Certification |Edureka](https://www.youtube.com/watch?v=usYySG1nbfI)
   - [Gwyneth Peña-Siguenza](https://www.youtube.com/@MadeByGPS)
   - [Top 5 Cloud Computing Careers For 2023 | Salaries Included](https://www.youtube.com/watch?v=4nOWK__Sj3A)
+  - [Cloud Computing(Microsoft)](https://azure.microsoft.com/tr-tr/resources/cloud-computing-dictionary/what-is-cloud-computing/)
+  - [Cloud Computing(AWS)]](https://aws.amazon.com/tr/what-is-cloud-computing/)
 &nbsp;&nbsp;  
                                                                                                   
                                                                                                   
@@ -33,6 +35,9 @@
   - [How to Become a Cloud Security Engineer in 2021](https://www.youtube.com/watch?v=4JzSDUW1ZXw&list=PLOpFKM1EObSRVppt33AYMyHDwT-SzbvAs&index=11)
   - [Amazon Web Services](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
   - [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw)
+  - [Solutions Architect Professional course](https://www.youtube.com/playlist?list=PLeJgtCMvQjZd0kuK82-Et9IYcp6EiOeYa)
+  - [Nahamsec Cloud Security](https://www.youtube.com/watch?v=mGWP8cEe0Mo)
+
 &nbsp;&nbsp;  
                                                                                                   
               
@@ -89,11 +94,30 @@
  - [AWS Well-Architected Labs](https://www.wellarchitectedlabs.com/)
  - [Learn To Cloud](https://learntocloud.guide/)
  - [AWS New Content](https://aws.amazon.com/tr/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=*all)
+ -   - [AWS Workshop](https://workshops.aws/card/security)
                                                                                                  
                                                                                                   
  &nbsp;&nbsp;&nbsp;                                                                                                 
                                                                                                   
-                                                                                                  
+<h2> ⚙️ Tools </h2> 
+
+<p align="center">
+<img width="250" align="center" src="https://i.ibb.co/C257mpG/png-transparent-github-git-hub-logo-icon-thumbnail.png" alt="there-is-no-cloud" border="0">
+</p>
+
+  - [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
+  - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+  - [Cloud-Security-Attacks](https://github.com/CyberSecurityUP/Cloud-Security-Attacks)
+  - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+  - [Lunizz(Can Değer) Cloud Computing All Source](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/BaglantilarVeBilgiler.md#bulutkaynaklari)
+  - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md)
+  - [Cloud Security Tools](https://github.com/4ndersonLin/awesome-cloud-security#tools)
+
+
+<h2> 📖 PDF Books </h2>   
+  -[Cloud Security](https://drive.google.com/drive/folders/1mVmMXHnZxavGc5zt90pbIvUV91GEGSOH?usp=share_link)
+  -[Cyber Security](https://drive.google.com/drive/folders/1SN6UUKJHeHj4Hf1BrwPbR058-nAQjq7q?usp=share_link)
+
 
 <h2> 📚 Blog Post </h2>   
 
@@ -101,10 +125,28 @@
   - [Nick Jones](https://www.nojones.net/posts/breaking-into-cloudsec)
 
 
+<h2> 🔶 Reddit </h2>
 
 
+<p align="center">
+<img width="250" align="center" src="https://i.ibb.co/C2kjpsR/reddit-logo.png" alt="reddit" border="0">
+</p>
+
+  -[Cloud Computing](https://www.reddit.com/r/cloudcomputing/)
+  -[Cloud](https://www.reddit.com/r/Cloud/)
+  -[AWS](https://www.reddit.com/r/aws/)
+  
+  
+
+<h2> 🔷 Telegram </h2>
 
 
+<p align="center">
+<img width="250" align="center" src="https://i.ibb.co/LtVjtFV/Telegram-2019-Logo-svg.png" alt="telegram" border="0">
+</p>
+
+
+  -[Cloud and Cybersecurity](https://t.me/cloudandcybersecurity)
 
 
 

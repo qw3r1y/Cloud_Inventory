@@ -68,4 +68,44 @@
   - [[Free] AWS Solution Architect Associate Guide to success!! (FREE)](https://www.udemy.com/course/free-aws-solution-architect-associate-guide-to-success/)
   - [Introduction to AWS Cloud Computing (FREE)](https://www.udemy.com/course/introduction-to-aws-cloud-computing/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-bd1uVMGT3rmGKvarWZ2DUA&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads)
   - [Bulut Bilişim Temelleri ve AWS Çözüm Mimarlığına Giriş - Turkish](https://www.udemy.com/course/bulut-bilisim-temelleri-ve-aws-cozum-mimarligina-giris/)
+                                                                                                 
+                                                                                                  
+ &nbsp;&nbsp;&nbsp;                                                                                                 
+                                                                                                  
+                                                                                                  
+
+<h2> 🌍 Web Sites </h2>   
+
+<p align="center">
+<img width="250" align="center" src="https://i.ibb.co/26Z2S2W/there-is-no-cloud.webp" alt="there-is-no-cloud" border="0">
+</p>
+
+ - [AWS Documentation](https://docs.aws.amazon.com/index.html)
+ - [A Higher-Level Security Scheme for Key Access on Cloud Computing](https://ieeexplore.ieee.org/document/9500230)
+ - [Cloud and Cybersecurity Study Program!](https://skill.edukamu.fi/)
+ - [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+ - [AWS Cervices](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+ - [AWS Blogs](https://aws.amazon.com/tr/blogs/aws/)
+ - [AWS Well-Architected Labs](https://www.wellarchitectedlabs.com/)
+ - [Learn To Cloud](https://learntocloud.guide/)
+ - [AWS New Content](https://aws.amazon.com/tr/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=*all)
+                                                                                                 
+                                                                                                  
+ &nbsp;&nbsp;&nbsp;                                                                                                 
+                                                                                                  
+                                                                                                  
+
+<h2> 📚 Blog Post </h2>   
+  -[Sena Yakut](https://senayktt.medium.com/)
+  -[Nick Jones](https://www.nojones.net/posts/breaking-into-cloudsec)
+
+
+
+
+
+
+
+
+
+
 

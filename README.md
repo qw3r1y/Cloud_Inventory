@@ -15,7 +15,7 @@
   - [Gwyneth Peña-Siguenza](https://www.youtube.com/@MadeByGPS)
   - [Top 5 Cloud Computing Careers For 2023 | Salaries Included](https://www.youtube.com/watch?v=4nOWK__Sj3A)
   - [Cloud Computing(Microsoft)](https://azure.microsoft.com/tr-tr/resources/cloud-computing-dictionary/what-is-cloud-computing/)
-  - [Cloud Computing(AWS)]](https://aws.amazon.com/tr/what-is-cloud-computing/)
+  - [Cloud Computing(AWS)](https://aws.amazon.com/tr/what-is-cloud-computing/)
 &nbsp;&nbsp;  
                                                                                                   
                                                                                                   
@@ -154,9 +154,9 @@
 <img width="250" align="center" src="https://i.ibb.co/C2kjpsR/reddit-logo.png" alt="reddit" border="0">
 </p>
 
-  -[Cloud Computing](https://www.reddit.com/r/cloudcomputing/)
-  -[Cloud](https://www.reddit.com/r/Cloud/)
-  -[AWS](https://www.reddit.com/r/aws/)
+  - [Cloud Computing](https://www.reddit.com/r/cloudcomputing/)
+  - [Cloud](https://www.reddit.com/r/Cloud/)
+  - [AWS](https://www.reddit.com/r/aws/)
                                                                                                  
                                                                                                   
  &nbsp;&nbsp;&nbsp;                                                                                                 
@@ -174,7 +174,7 @@
 </p>
 
 
-  -[Cloud and Cybersecurity](https://t.me/cloudandcybersecurity)
+  - [Cloud and Cybersecurity](https://t.me/cloudandcybersecurity)
 
 
 

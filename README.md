@@ -85,20 +85,23 @@
 <img width="250" align="center" src="https://i.ibb.co/26Z2S2W/there-is-no-cloud.webp" alt="there-is-no-cloud" border="0">
 </p>
 
- - [AWS Documentation](https://docs.aws.amazon.com/index.html)
- - [A Higher-Level Security Scheme for Key Access on Cloud Computing](https://ieeexplore.ieee.org/document/9500230)
- - [Cloud and Cybersecurity Study Program!](https://skill.edukamu.fi/)
- - [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
- - [AWS Cervices](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
- - [AWS Blogs](https://aws.amazon.com/tr/blogs/aws/)
- - [AWS Well-Architected Labs](https://www.wellarchitectedlabs.com/)
- - [Learn To Cloud](https://learntocloud.guide/)
- - [AWS New Content](https://aws.amazon.com/tr/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=*all)
- -   - [AWS Workshop](https://workshops.aws/card/security)
+  - [AWS Documentation](https://docs.aws.amazon.com/index.html)
+  - [A Higher-Level Security Scheme for Key Access on Cloud Computing](https://ieeexplore.ieee.org/document/9500230)
+  - [Cloud and Cybersecurity Study Program!](https://skill.edukamu.fi/)
+  - [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+  - [AWS Cervices](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+  - [AWS Blogs](https://aws.amazon.com/tr/blogs/aws/)
+  - [AWS Well-Architected Labs](https://www.wellarchitectedlabs.com/)
+  - [Learn To Cloud](https://learntocloud.guide/)
+  - [AWS New Content](https://aws.amazon.com/tr/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=*all)
+  - [AWS Workshop](https://workshops.aws/card/security)
                                                                                                  
                                                                                                   
  &nbsp;&nbsp;&nbsp;                                                                                                 
                                                                                                   
+                                                                                                  
+
+                                                                                                                                                                                    
 <h2> ⚙️ Tools </h2> 
 
 <p align="center">
@@ -112,18 +115,36 @@
   - [Lunizz(Can Değer) Cloud Computing All Source](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/BaglantilarVeBilgiler.md#bulutkaynaklari)
   - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md)
   - [Cloud Security Tools](https://github.com/4ndersonLin/awesome-cloud-security#tools)
+                                                                                                 
+                                                                                                  
+ &nbsp;&nbsp;&nbsp;                                                                                                 
+                                                                                                  
+                                                                                                  
 
+                                                                                                                                                                                    
 
 <h2> 📖 PDF Books </h2>   
   -[Cloud Security](https://drive.google.com/drive/folders/1mVmMXHnZxavGc5zt90pbIvUV91GEGSOH?usp=share_link)
   -[Cyber Security](https://drive.google.com/drive/folders/1SN6UUKJHeHj4Hf1BrwPbR058-nAQjq7q?usp=share_link)
+                                                                                                 
+                                                                                                  
+ &nbsp;&nbsp;&nbsp;                                                                                                 
+                                                                                                  
+                                                                                                  
 
+                                                                                                                                                                                    
 
 <h2> 📚 Blog Post </h2>   
 
   - [Sena Yakut](https://senayktt.medium.com/)
   - [Nick Jones](https://www.nojones.net/posts/breaking-into-cloudsec)
+                                                                                                 
+                                                                                                  
+ &nbsp;&nbsp;&nbsp;                                                                                                 
+                                                                                                  
+                                                                                                  
 
+                                                                                                                                                                                    
 
 <h2> 🔶 Reddit </h2>
 
@@ -135,7 +156,13 @@
   -[Cloud Computing](https://www.reddit.com/r/cloudcomputing/)
   -[Cloud](https://www.reddit.com/r/Cloud/)
   -[AWS](https://www.reddit.com/r/aws/)
-  
+                                                                                                 
+                                                                                                  
+ &nbsp;&nbsp;&nbsp;                                                                                                 
+                                                                                                  
+                                                                                                  
+
+                                                                                                                                                                                      
   
 
 <h2> 🔷 Telegram </h2>

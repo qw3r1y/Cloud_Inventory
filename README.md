@@ -105,7 +105,7 @@
 <h2> ⚙️ Tools </h2> 
 
 <p align="center">
-<img width="250" align="center" src="https://i.ibb.co/C257mpG/png-transparent-github-git-hub-logo-icon-thumbnail.png" alt="there-is-no-cloud" border="0">
+<img width="250" align="center" src="https://i.ibb.co/74d0VmV/25231.png" alt="github" border="0">
 </p>
 
   - [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
@@ -124,8 +124,9 @@
                                                                                                                                                                                     
 
 <h2> 📖 PDF Books </h2>   
-  -[Cloud Security](https://drive.google.com/drive/folders/1mVmMXHnZxavGc5zt90pbIvUV91GEGSOH?usp=share_link)
-  -[Cyber Security](https://drive.google.com/drive/folders/1SN6UUKJHeHj4Hf1BrwPbR058-nAQjq7q?usp=share_link)
+
+  - [Cloud Security](https://drive.google.com/drive/folders/1mVmMXHnZxavGc5zt90pbIvUV91GEGSOH?usp=share_link) 
+  - [Cyber Security](https://drive.google.com/drive/folders/1SN6UUKJHeHj4Hf1BrwPbR058-nAQjq7q?usp=share_link)
                                                                                                  
                                                                                                   
  &nbsp;&nbsp;&nbsp;                                                                                                 

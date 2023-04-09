@@ -127,6 +127,7 @@
 
   - [Cloud Security](https://drive.google.com/drive/folders/1mVmMXHnZxavGc5zt90pbIvUV91GEGSOH?usp=share_link) 
   - [Cyber Security](https://drive.google.com/drive/folders/1SN6UUKJHeHj4Hf1BrwPbR058-nAQjq7q?usp=share_link)
+  - [AWS Cloud Security](https://www.linkedin.com/posts/brcyrr_awesome-cloud-security-ugcPost-7050015468073435136-Hs4P/)
                                                                                                  
                                                                                                   
  &nbsp;&nbsp;&nbsp;                                                                                                 
